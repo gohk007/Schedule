@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Working Project\\swagger\\TestSchedule\\TestSchedule.csproj": {}
+    "c:\\Working Project\\swagger\\TestSchedule\\TestSchedule.csproj": {}
   },
   "projects": {
-    "C:\\Working Project\\swagger\\TestSchedule\\TestSchedule.csproj": {
+    "c:\\Working Project\\swagger\\TestSchedule\\TestSchedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Working Project\\swagger\\TestSchedule\\TestSchedule.csproj",
+        "projectUniqueName": "c:\\Working Project\\swagger\\TestSchedule\\TestSchedule.csproj",
         "projectName": "TestSchedule",
-        "projectPath": "C:\\Working Project\\swagger\\TestSchedule\\TestSchedule.csproj",
+        "projectPath": "c:\\Working Project\\swagger\\TestSchedule\\TestSchedule.csproj",
         "packagesPath": "C:\\Users\\kumhem70\\.nuget\\packages\\",
-        "outputPath": "C:\\Working Project\\swagger\\TestSchedule\\obj\\",
+        "outputPath": "c:\\Working Project\\swagger\\TestSchedule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kumhem70\\AppData\\Roaming\\NuGet\\NuGet.Config",
